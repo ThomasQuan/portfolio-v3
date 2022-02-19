@@ -1,0 +1,12 @@
+node_modules
+public
+provisions
+coverage
+build
+docs
+db
+src/graphql/generated/*
+*.svg
+*.DS_Store
+*.md
+*.mdx
