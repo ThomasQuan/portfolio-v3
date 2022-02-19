@@ -1,0 +1,13 @@
+build
+coverage
+*.db
+*.log
+*.lock
+*.json
+docs
+node_modules
+public
+prettier.config.js
+storybook-static
+src/stories
+src/graphql/generated/*
